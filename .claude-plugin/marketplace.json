@@ -1,0 +1,10 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "zane-claude-plugins",
+  "description": "Zane 的个人 Claude Code 插件市场",
+  "version": "1.0.0",
+  "owner": {
+    "name": "zane"
+  },
+  "plugins": []
+}
