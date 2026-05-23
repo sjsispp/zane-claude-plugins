@@ -1,0 +1,10 @@
+{
+  "name": "arch-analyzer",
+  "version": "4.0.1",
+  "description": "项目架构分析工具，提供七层递进分析框架 + 双文档交替驱动验证闭环（3轮强制 + FK-first SQL + 准出门禁），确保分析结论有逐跳数据证据支撑。支持全量数据采集、核心链路识别、线上数据验证和持续改进循环",
+  "author": {
+    "name": "Claude Code User",
+    "email": "user@example.com"
+  },
+  "keywords": ["architecture", "analysis", "documentation", "codebase", "project-understanding", "rpc-analysis", "upstream-downstream", "data-driven", "verification", "tdd"]
+}
