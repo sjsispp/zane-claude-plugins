@@ -17,6 +17,17 @@
       "source": "./plugins/arch-analyzer",
       "category": "development",
       "keywords": ["architecture", "analysis", "documentation", "verification", "tdd"]
+    },
+    {
+      "name": "daily-for-redoc",
+      "description": "个人学习/工作笔记 skill。把与 AI 对话的学习内容总结后按今日日期追加到个人 REDoc 主笔记，并按需开子文档详细记录",
+      "version": "0.1.0",
+      "author": {
+        "name": "zane"
+      },
+      "source": "./plugins/daily-for-redoc",
+      "category": "productivity",
+      "keywords": ["learning", "journal", "notes", "redoc", "daily"]
     }
   ]
 }
